@@ -1,61 +1,93 @@
-# Barbara Guimarães
+<h1 align="center">Olá! 👋 Eu sou Barbara Guimarães</h1>
 
-## Sobre mim
+<p align="center">
+  🎓 Estudante de Engenharia da Computação &nbsp; | &nbsp; 🚛 Aprendiz na Volvo do Brasil
+</p>
 
-Sou estudante de Engenharia da Computação e Aprendiz na Volvo do Brasil, com interesse em programação, hardware e sistemas embarcados.
+---
 
-Busco desenvolver meus conhecimentos por meio da graduação, da experiência profissional e de projetos acadêmicos, com o objetivo de construir uma carreira na área de tecnologia.
+## 👩‍💻 Sobre mim
 
-## Objetivo profissional
+Sou estudante de <strong>Engenharia da Computação</strong> e Aprendiz na <strong>Volvo do Brasil</strong>, com interesse em programação, hardware, eletrônica e sistemas embarcados.
 
-Atuar como Engenheira da Computação, desenvolvendo soluções que integrem software e eletrônica e ampliando continuamente minhas competências técnicas e profissionais.
+Busco desenvolver meus conhecimentos por meio da graduação, da experiência profissional e de projetos acadêmicos e práticos, com o objetivo de construir uma carreira na área de tecnologia.
 
-## Áreas de interesse
+## 🎯 Objetivo profissional
 
-- Engenharia da Computação
-- Programação
-- Hardware
-- Sistemas Embarcados
-- Desenvolvimento de Software
-- Automação
-- Eletrônica
-- Internet das Coisas (IoT)
-- Inteligência Artificial
+Atuar como <strong>Engenheira da Computação</strong>, desenvolvendo soluções que integrem software e eletrônica e ampliando continuamente minhas competências técnicas e profissionais.
 
-## Tecnologias de interesse
+## 💡 Áreas de interesse
 
-- Python
-- Arduino
-- Sistemas Embarcados
-- Inteligência Artificial
-- Banco de Dados
-- Computação em Nuvem
-- Programação Avançada
+<ul>
+  <li>💻 Engenharia da Computação</li>
+  <li>⌨️ Programação</li>
+  <li>🔧 Hardware</li>
+  <li>⚙️ Sistemas Embarcados</li>
+  <li>🖥️ Desenvolvimento de Software</li>
+  <li>🤖 Automação</li>
+  <li>🔌 Eletrônica</li>
+  <li>🌐 Internet das Coisas (IoT)</li>
+  <li>🧠 Inteligência Artificial</li>
+</ul>
 
-## Competências
+## 🛠️ Tecnologias e conhecimentos
 
-### Técnicas
-- Lógica de programação
-- Python
-- Arduino
-- Hardware e eletrônica básica
-- Pacote Office
-- Excel
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
-### Comportamentais
-- Organização
-- Proatividade
-- Responsabilidade
-- Trabalho em equipe
-- Comunicação
-- Comprometimento
+<p>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hardware-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge"/>
+</p>
 
-## Plataformas profissionais
+## 📚 Competências
 
-- LinkedIn: www.linkedin.com/in/barbara-guimaraes1104
+### 🔹 Técnicas
 
-- YouTube: https://www.youtube.com/channel/UCqrXk66xo7e73R0s2nrXzkQ
+- 💻 Lógica de Programação
+- 🐍 Python
+- 🔵 C
+- 🔧 Arduino
+- ⚡ Hardware e Eletrônica Básica
+- 🗄️ Banco de Dados
+- 📊 Excel
+- 📑 Pacote Office
 
-## Organização e comunicação profissional
+### 🔹 Comportamentais
 
-Este README apresenta minha identidade profissional de forma organizada, reunindo minha apresentação, objetivos, áreas de interesse, tecnologias e competências em desenvolvimento.
+- 📋 Organização
+- 🚀 Proatividade
+- ✅ Responsabilidade
+- 🤝 Trabalho em equipe
+- 💬 Comunicação
+- 🎯 Comprometimento
+- 📖 Aprendizado contínuo
+
+## 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/barbara-guimaraes1104">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.youtube.com/channel/UCqrXk66xo7e73R0s2nrXzkQ">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+## 🚀 Em desenvolvimento
+
+Atualmente, estou ampliando meus conhecimentos em <strong>programação, sistemas embarcados, banco de dados, inteligência artificial e tecnologias aplicadas à Engenharia da Computação</strong>.
+
+Este perfil reúne projetos, estudos e experiências que fazem parte da minha trajetória acadêmica e profissional, representando minha evolução:
+
+<p align="center">
+  <strong>De Aprendiz → Engenheira da Computação 🚀</strong>
+</p>
